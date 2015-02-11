@@ -13,7 +13,8 @@ public class StringUtil {
 	 * @return
 	 */
 	public static boolean isNull(Object obj) {
-		return obj == null;
+		return obj == null;     
+		//sdfsadfsadfsadf
 	}
 
 	/**
