@@ -57,6 +57,7 @@ class MyFileVisitor {
 
 class MySimpleFileVisitor extends SimpleFileVisitor<Path> {
 
+	//私有属性
 	private String fileSuffix;
 	private List<String> fileList;
 	
